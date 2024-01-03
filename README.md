@@ -1,6 +1,6 @@
 
 <p align="center">
-  I am currently a Data Analytics Consultant with a passion for Machine Learning, Data Engineering and Data Science. I have experience in building data pipelines, designing buisness intelligence dashaboards, creating custom APIs and developing machine learning models. In addition to data science my other interests include sports, finance, fitness and cooking.  
+  I am currently an  nalytics Engineering Consultant with a passion for Machine Learning, Data Engineering and Data Science. I have experience in building data pipelines, designing buisness intelligence dashaboards, creating custom APIs and developing machine learning models. In addition to data science my other interests include sports, finance, fitness and cooking.  
 </p> 
 
 <h2 align="center">Technology Stack <img src="https://img.shields.io/github/stars/emozeika?style=social" width="50"></h2>
